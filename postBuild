@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/kgtx6_src/Data Retrieval")' >> /home/jovyan/.Rprofile
